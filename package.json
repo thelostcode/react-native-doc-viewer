@@ -23,7 +23,7 @@
   "peerDependencies": {
     "react": "16.0.0",
 		"react-native": "0.50.3",
-		"react-native-fs":"^2.3.2",
+		"react-native-fs":"2.3.2",
 		"react-native-doc-viewer": "2.7.3"
   },
   "repository": {
